@@ -44,6 +44,9 @@ Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91)&nbsp;
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![PHPStorm](http://img.shields.io/badge/-PHPStorm-0D1117?style=for-the-badge&logo=phpstorm&logoColor=white)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows_11-0D1117?style=for-the-badge&logo=windows-11&logoColor=0078d4)&nbsp;
