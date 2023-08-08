@@ -5,7 +5,7 @@
 <div align="center"> 
   <a href="https://github.com/curumim15/github-readme-stats">
     <img width="49%" height="195px" align="center" 
-      src="https://github-readme-stats.vercel.app/api?    username=curumim15&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+      src="https://github-readme-stats.vercel.app/api?username=curumim15&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
   </a>
   <a href="https://github.com/curumim15/convoychat">
     <img width="41%" height="195px" align="center" 
