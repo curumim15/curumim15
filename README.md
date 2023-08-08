@@ -58,12 +58,6 @@ Other Knowledge
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-0D1117?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=31A8FF)&nbsp;
 
 ##
- 
-<div> 
- 
-![snake gif](https://github.com/curumim15/curumim15/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <div align="center">
   <br>
