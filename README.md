@@ -34,6 +34,7 @@ Main Skills
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
 ![P5.js](https://img.shields.io/badge/p5%20js-0D1117?style=for-the-badge&logo=p5dotjs&logoColor=ED225D)&nbsp;
@@ -51,6 +52,7 @@ Tools
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Xampp](https://img.shields.io/badge/Xampp-0D1117?style=for-the-badge&logo=xampp&logoColor=F37623)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows_11-0D1117?style=for-the-badge&logo=windows-11&logoColor=0078d4)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=D83B01)&nbsp;
@@ -63,10 +65,12 @@ Other Knowledge
 ![Node](https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
 ![Express](https://img.shields.io/badge/Express%20js-0D1117?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Socket.io](https://img.shields.io/badge/Socket.io-0D1117?&style=for-the-badge&logo=Socket.io&logoColor=010101)&nbsp;
+![Socket.io](https://img.shields.io/badge/Socket.io-0D1117?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
 <br>
+![Socket.io](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Trelo](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC)&nbsp;
 <br>
 ![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-0D1117?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD)&nbsp;
 ![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-0D1117?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999FF)&nbsp;
