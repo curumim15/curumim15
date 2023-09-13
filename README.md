@@ -63,6 +63,7 @@ Other Knowledge
 ![Node](https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
 ![Express](https://img.shields.io/badge/Express%20js-0D1117?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Socket.io](https://img.shields.io/badge/Socket.io-0D1117?&style=for-the-badge&logo=Socket.io&logoColor=010101)&nbsp;
 <br>
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
