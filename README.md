@@ -59,13 +59,13 @@ Tools
 
 ##
 Other Knowledge
-  
+
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
+![Ionic](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic&logoColor=3880FF)&nbsp;  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=0095D5)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
 ![Node](https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
 ![Express](https://img.shields.io/badge/Express%20js-0D1117?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Ionic](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic&logoColor=3880FF)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-0D1117?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
 <br>
 ![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
