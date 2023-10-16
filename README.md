@@ -40,7 +40,7 @@ Main Skills
 ![P5.js](https://img.shields.io/badge/p5%20js-0D1117?style=for-the-badge&logo=p5dotjs&logoColor=ED225D)&nbsp;
 
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp; 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ##
 Tools
@@ -65,7 +65,7 @@ Other Knowledge
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
 ![Node](https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
 ![Express](https://img.shields.io/badge/Express%20js-0D1117?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Ionic](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic&logoColor=3880FF)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-0D1117?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
 <br>
 ![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
