@@ -71,6 +71,7 @@ Other Knowledge
 ![Socket.io](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Blender](https://img.shields.io/badge/blender-0D1117?style=for-the-badge&logo=blender&logoColor=%23F5792A.svg)&nbsp;
 ![Trelo](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC)&nbsp;
 <br>
 ![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-0D1117?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD)&nbsp;
