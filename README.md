@@ -28,6 +28,19 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div> -->
 
+
+ Socials
+                  
+                  
+<p align="left">
+                      <a href="https://www.facebook.com/nelson dias" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+                    </picture>
+</a></p>
+
 ##
 Main Skills
 
@@ -39,6 +52,8 @@ Main Skills
 ![Ionic](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic&logoColor=3880FF)&nbsp; 
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
 ![P5.js](https://img.shields.io/badge/p5%20js-0D1117?style=for-the-badge&logo=p5dotjs&logoColor=ED225D)&nbsp;
+
+
 
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp; 
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
