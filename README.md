@@ -37,7 +37,6 @@
 ### 🚀 About Me
 
 🤝 A Full Stack Software Developer with a passion for the field of software engineering, particularly frontend development, and with a strong passion for technology and innovation. I have particular interest in software development and i am always looking for new ways to create and improve applications.
-🧠 I believe that soft skills are just as important as technical skills, and i am always working to improve my communication, problem-solving and teamwork skills
 
 ##
 
@@ -165,6 +164,7 @@
 
 ### 💪 Soft Skills
 
+🧠 I believe that soft skills are just as important as technical skills, and i am always working to improve my communication, problem-solving and teamwork skills
 <details>
   <summary>Expand</summary>
   
