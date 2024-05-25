@@ -164,10 +164,11 @@
 
 ### 💪 Soft Skills
 
-🧠 I believe that soft skills are just as important as technical skills, and i am always working to improve my communication, problem-solving and teamwork skills
 <details>
   <summary>Expand</summary>
   
+🧠 I believe that soft skills are just as important as technical skills.
+
   - Adaptability <br>
   - Conflict resolution <br>
   - Creativity <br>
