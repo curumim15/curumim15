@@ -191,8 +191,8 @@ I'm all about learning and growing, always looking for new challenges. Honest, c
 <details>
   <summary>Expand</summary>
   
-- 🛠️ I built an intelligent greenhouse for my final project in my Electronics and Computer Systems course. <br>
-- 🐛 My team and I once created a cricket energy bar. Yes, the kind with actual crickets. <br>
+- 🏎️ I'm a passionate Formula 1 enthusiast and regularly attend races, where I immerse myself in the thrill of high-speed competition and cutting-edge automotive technology. <br>
+- 🎮 In my free time, I enjoy sim racing and compete in online leagues, honing my driving skills and strategic thinking while connecting with fellow motorsport enthusiasts from around the world. <br>
 - 🎧 Currently listening on spotify: <br>
   <p>
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=11156513067&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00A1FF&interchange=false&bar_color=53b14f&bar_color_cover=true">
