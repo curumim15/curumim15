@@ -1,7 +1,10 @@
+<!-- Header with Custom Gradient -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+<!-- Typing Animation with Consistent Colors -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Nelson+Dias;I'm+from+Portugal;I+studied+Computer+Engineering+at+IPVC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<!-- GitHub Stats -->
 <div align="center"> 
   <a href="https://github.com/curumim15/github-readme-stats">
     <img width="49%" height="195px" align="center" 
@@ -15,6 +18,7 @@
 
 ##
 
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=curumim15&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -29,70 +33,199 @@
 </div> -->
 
 ##
-Main Skills
 
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
-![Ionic](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic&logoColor=3880FF)&nbsp; 
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
-![P5.js](https://img.shields.io/badge/p5%20js-0D1117?style=for-the-badge&logo=p5dotjs&logoColor=ED225D)&nbsp;
+### 🚀 About Me
 
-
-
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp; 
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+I'm all about learning and growing, always looking for new challenges. Honest, creative, and sometimes a bit odd, I find weird solutions to tricky problems. I love working with teams but also enjoy my alone time.
 
 ##
-Tools
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91)&nbsp;
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![PHPStorm](http://img.shields.io/badge/-PHPStorm-0D1117?style=for-the-badge&logo=phpstorm&logoColor=white)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Xampp](https://img.shields.io/badge/Xampp-0D1117?style=for-the-badge&logo=xampp&logoColor=F37623)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/Windows_11-0D1117?style=for-the-badge&logo=windows-11&logoColor=0078d4)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=D83B01)&nbsp;
+### 💻 What I worked with before
+
+<details>
+  <summary>Expand</summary>
+  
+🌐 Front-End Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> 
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic"/> 
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery"/>
+  <img src="https://img.shields.io/badge/Ajax-007FFF?style=flat-square&logo=ajax&logoColor=white" alt="Ajax"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+🖥️ Back-End Development
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> 
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Yii-2C3E50?style=flat-square&logo=yiiframework&logoColor=white" alt="Yii"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+
+</p>
+🗄️ Database Management
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/PostGIS-008bb9?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java (Android)"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio"/>
+</p>
+🎮 Game Development
+<p>
+  <img src="https://img.shields.io/badge/Phaser.js-8CC84B?style=flat-square&logo=phaser&logoColor=white" alt="Phaser.js"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+</p>
+🛠️ Other Technologies
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/UML-007396?style=flat-square&logo=uml&logoColor=white" alt="UML"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
+  <img src="https://img.shields.io/badge/P5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white" alt="P5.js"/>
+  <img src="https://img.shields.io/badge/Assembly-0078D7?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Draw.io-0088CC?style=flat-square&logo=draw-dot-io&logoColor=white" alt="Draw.io"/>
+  <img src="https://img.shields.io/badge/Lucidchart-FF7F00?style=flat-square&logo=lucidchart&logoColor=white" alt="Lucidchart"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Xampp-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="Xampp"/>
+</p>
+🎨 3D & Animation
+<p>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Maya-00C7B7?style=flat-square&logo=autodesk&logoColor=white" alt="Maya"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-CF96FD?style=flat-square&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop"/>
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro"/>
+</p>
+📚 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</p>
+</details>
 
 ##
-Other Knowledge
- 
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=0095D5)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
-![Node](https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
-![Express](https://img.shields.io/badge/Express%20js-0D1117?style=for-the-badge&logo=express&logoColor=white)&nbsp; 
-![Socket.io](https://img.shields.io/badge/Socket.io-0D1117?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
-<br>
-![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Blender](https://img.shields.io/badge/blender-0D1117?style=for-the-badge&logo=blender&logoColor=%23F5792A.svg)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Trelo](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC)&nbsp;
-<br>
-![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-0D1117?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD)&nbsp;
-![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-0D1117?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999FF)&nbsp;
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-0D1117?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00)&nbsp;
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-0D1117?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)&nbsp;
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-0D1117?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=31A8FF)&nbsp;
+
+### 🌐 Language Skills
+
+<details>
+  <summary>Expand</summary>
+
+  - <img src="https://flagsapi.com/PT/shiny/32.png" width="20"/> **Portuguese** (C2)
+    <br>  &nbsp;  &nbsp;  &nbsp;Fluent - Can debate philosophy while making pastéis de nata!
+  - <img src="https://flagsapi.com/GB/shiny/32.png" width="20"/> **English** (C1)
+    <br>  &nbsp;  &nbsp;  &nbsp;Advanced - Can survive a British tea party and understand most British humor.
+  - <img src="https://flagsapi.com/ES/shiny/32.png" width="20"/> **Spanish** (B2)
+    <br>  &nbsp;  &nbsp;  &nbsp;Intermediate - Can order tapas and join in a fiesta with confidence!
+
+</details>
+
+##
+
+### 🎮 Hobbies
+
+<details>
+  <summary>Expand</summary>
+  
+  - Science and Tecnology <br>
+  - Entrepreneurship <br>
+  - Gym <br>
+  - Software Developing <br>
+  - Sound Aplicactions <br>
+  - Anime and Video Games <br>
+  - Volunteer <br>
+  
+</details>
+
+##
+
+### 💪 Soft Skills
+
+<details>
+  <summary>Expand</summary>
+  
+  - Adaptability <br>
+  - Conflict resolution <br>
+  - Creativity <br>
+  - Critical thinking <br>
+  - Curiosity <br>
+  - Empathy <br>
+  - Initiative <br>
+  - Integrity <br>
+  - Open-mindedness <br>
+  - Positivity <br>
+  - Problem-solving <br>
+  - Resilience <br>
+  - Teamwork <br>
+  - Honesty <br>
+    
+</details>
+
+##
+
+### 🌟 Fun Facts
+
+<details>
+  <summary>Expand</summary>
+  
+- 🛠️ I built an intelligent greenhouse for my final project in my Electronics and Computer Systems course. <br>
+- 🐛 My team and I once created a cricket energy bar. Yes, the kind with actual crickets. <br>
+- 🎧 Currently listening on spotify: <br>
+  <p>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=11156513067&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00A1FF&interchange=false&bar_color=53b14f&bar_color_cover=true">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=11156513067&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00A1FF&interchange=false&bar_color=00A1FF&bar_color_cover=true" alt="Spotify Now Playing"/>
+    </a>
+  </p>
+</details>
+
+##
+
+### 😂 Developer Jokes
+
+<details>
+  <summary>Expand</summary>
+  
+  - Why are software developers so good at Star Wars? Because they have a great "Code" Force! 🌌 <br>
+  - Why was the programmer always cold? Because he left all the windows open! ❄️ <br>
+  - Why did the developer bring a ladder to work? Because he heard the code had a lot of "high-level" functions! 📈 <br>
+    
+</details>
 
 ##
 
 <div align="center">
-  <br>
-    <p align="centre">
-      <b>Visitors Count</b>
-    </p>  
-    <p align="center">
-      <img align="center" src="https://profile-counter.glitch.me/{curumim15}/count.svg" />
-    </p> 
-  <br>
+  <a href="https://buymeacoffee.com/nedias"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </div>
 
+##
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://views-counter.vercel.app/badge?pageId=curumim15%2FViews-Counter&leftColor=0078D7&rightColor=00A1FF&label=Visitors&style=flat" alt="Views Counter"/>
+</div>
+
+<!-- Footer with Custom Gradient -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
