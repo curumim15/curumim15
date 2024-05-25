@@ -229,7 +229,7 @@
 
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://views-counter.vercel.app/badge?pageId=curumim15%2FViews-Counter&leftColor=0078D7&rightColor=00A1FF&label=Visitors&style=flat" alt="Views Counter"/>
+  <img src="https://views-counter.vercel.app/badge?pageId=curumim15%2FViews-Counter&leftColor=0A575A&rightColor=158082&label=Visitors&style=flat" alt="Views Counter"/>
 </div>
 
 <!-- Footer with Custom Gradient -->
