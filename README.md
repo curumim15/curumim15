@@ -216,8 +216,11 @@ I'm all about learning and growing, always looking for new challenges. Honest, c
 
 ##
 
+
 <div align="center">
-  <a href="https://buymeacoffee.com/nedias"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+    <p align="center">
+      <a href="https://buymeacoffee.com/nedias"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+    </p>
 </div>
 
 ##
