@@ -36,7 +36,8 @@
 
 ### 🚀 About Me
 
-I'm all about learning and growing, always looking for new challenges. Honest, creative, and sometimes a bit odd, I find weird solutions to tricky problems. I love working with teams but also enjoy my alone time.
+A Full Stack Software Developer with a passion for the field of software engineering, particularly frontend development. I love applying my knowledge to solve problems, create amazing products, and impact lives.
+I am an unwavering explorer of technology and innovation, constantly eager for stimulating challenges. I passionately advocate for sharing and the relentless pursuit of new opportunities. I prioritize honesty and integrity, believing in the potential of everyone. I consider a positive sense of humor as a fundamental principle. I am a friendly and communicative person who collaborates effectively in teams, but I also appreciate moments of solitude.
 
 ##
 
