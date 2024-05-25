@@ -36,8 +36,8 @@
 
 ### 🚀 About Me
 
-A Full Stack Software Developer with a passion for the field of software engineering, particularly frontend development. I love applying my knowledge to solve problems, create amazing products, and impact lives.
-I am an unwavering explorer of technology and innovation, constantly eager for stimulating challenges. I passionately advocate for sharing and the relentless pursuit of new opportunities. I prioritize honesty and integrity, believing in the potential of everyone. I consider a positive sense of humor as a fundamental principle. I am a friendly and communicative person who collaborates effectively in teams, but I also appreciate moments of solitude.
+🤝 A Full Stack Software Developer with a passion for the field of software engineering, particularly frontend development, and with a strong passion for technology and innovation. I have particular interest in software development and i am always looking for new ways to create and improve applications.
+🧠 I believe that soft skills are just as important as technical skills, and i am always working to improve my communication, problem-solving and teamwork skills
 
 ##
 
